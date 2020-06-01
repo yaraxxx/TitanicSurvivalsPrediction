@@ -1,3 +1,5 @@
 # TitanicSurvivalsPrediction
 ML classification model <br>
-In progress .. ⏳
+
+In progress .. ⏳ <br> <br>
+MADE FOR LEARNING PURPOSES.
